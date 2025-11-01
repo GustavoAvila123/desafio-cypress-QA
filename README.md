@@ -46,7 +46,7 @@ A EBAC-SHOP tem como meta, sempre garantir uma experiência <strong>ÚNICA</stro
 <pre>
 <code class="language-bash">
 <span style="color: #963d8f;"># Clonar o repositório</span>
-$ https://github.com/farmarcas/testing-automated-cypress
+$ https://github.com/GustavoAvila123/desafio-cypress-QA.git
 
 <span style="color: #963d8f;"># Instalar o Cypress</span>
 $ npm install cypress --save-dev
